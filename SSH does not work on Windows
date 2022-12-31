@@ -1,0 +1,3 @@
+If it says: ``ssh command not found,`` that means you have to use Putty
+
+Follow again the video. If things don't work, please use EC2 Instance Connect as described in the next lecture
