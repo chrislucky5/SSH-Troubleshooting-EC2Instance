@@ -1,0 +1,5 @@
+This means the instance is reachable, but no SSH utility is running on the instance
+
+Try to restart the instance
+
+If it doesn't work, terminate the instance and create a new one. Make sure you're using Amazon Linux 2
